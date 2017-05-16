@@ -1,7 +1,7 @@
 # st-radio
 # html status webradio
 
-sudo apt-get install alsa-utils 
+sudo apt-get install alsa-utils
 sudo apt-get install mplayer
 sudo apt-get install apache2 php5
 
