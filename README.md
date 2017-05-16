@@ -1,5 +1,5 @@
 # st-radio
-html statusradio
+# html status webradio
 
 sudo apt-get install alsa-utils 
 sudo apt-get install mplayer
