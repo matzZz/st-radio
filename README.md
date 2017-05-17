@@ -24,3 +24,5 @@ export APACHE_RUN_GROUP=pi
 $ sudo /etc/init.d/apache2 start
 
 $ sudo chmod a+x ./*.sh
+
+$ sudo mkdir ./status
