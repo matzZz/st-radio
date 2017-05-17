@@ -13,7 +13,7 @@ $ sudo chown -R pi:pi /run/lock/apache2
 
 $ sudo nano /etc/apache2/envvars
 
-Zeilen www-data mit pi ersetzen
+(Zwei Zeilen www-data mit pi ersetzen)
 
 export APACHE_RUN_USER=pi
 
