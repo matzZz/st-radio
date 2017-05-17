@@ -1,6 +1,6 @@
 		{
 			"accessory": "Http",
-			"name": "Wort detektorfm",
+			"name": "detektorfmWort",
 			"switchHandling": "yes",
 			"http_method": "GET",
 			"on_url": "http://radio.local/radio.php?name=1",
@@ -13,7 +13,7 @@
 		},
 		{
 			"accessory": "Http",
-			"name": "Musik detektorfm",
+			"name": "detektorfmMusik",
 			"switchHandling": "yes",
 			"http_method": "GET",
 			"on_url": "http://radio.local/radio.php?name=2",
