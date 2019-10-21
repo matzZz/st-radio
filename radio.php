@@ -53,7 +53,7 @@ if ($zeile !== null):
 //exec ("sh aw-dfm.sh ".$uebergabe[0]);
 exec ("sh status.sh ".$uebergabe[0]);
 $cmd =  "sh radio.sh ".$uebergabe[1];
-exec ("sh aw-dfm.sh ".$uebergabe[0]);
+exec ("sh awtrix.sh ".$uebergabe[0]);
 echo "<tr><td>Online: ",$uebergabe[0],"</tr> </td>";
 exec($cmd);
 else:
